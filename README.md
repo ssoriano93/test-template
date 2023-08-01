@@ -1,11 +1,9 @@
-I am a UTSA student currently majoring in *fill in your major*.
+I am a UTSA student currently majoring in cyber security.
 
 :hammer_and_wrench: Technical Skills
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" alt="bash" width="40" height="40"/>&nbsp;
 </div>
 <p> </p>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/your-profile-url/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</div>
+
+I am a former network operator for the army. I contracted with the Air Force supporting the DHA, and I would like to continue working with the United States government.
